@@ -1,11 +1,15 @@
 {
   "applinks": {
-      "apps": [],
       "details": [
-          {
-              "appID": "JCXV9CV8VM.com.n4ksuk.LotteryWinningProbability",
-              "paths":[ "*" ]
-          }
-      ]
-  }
+           {
+             "appIDs": [ "JCXV9CV8VM.com.n4ksuk.LotteryWinningProbability" ],
+             "components": [
+               {
+                  "/": "*",
+                  "comment": "Matches any URL"
+               }
+             ]
+           }
+       ]
+   }
 }
